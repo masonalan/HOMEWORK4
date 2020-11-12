@@ -1,0 +1,10 @@
+Beans	5
+Shoes 	3
+Masks	9
+Oranges	90
+Pecks 	4
+Nats	2
+Sangs	1
+Ugh	0
+Por	7
+H	15
